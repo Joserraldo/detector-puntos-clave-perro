@@ -13,3 +13,7 @@ salida*.jpg
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Dataset descargado por el cuaderno / entrenar_modelo.py
+StanfordExtra-master/
+resultados/muestra_*
