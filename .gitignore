@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Salidas locales
+salida*.png
+salida*.jpg
+*.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
